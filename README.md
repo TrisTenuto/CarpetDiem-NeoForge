@@ -5,8 +5,8 @@ Have you ever wanted simple patterned carpets in Minecraft but can only find inc
 
 Each base colored carpet has a patterned variant that can be crafted by placing the associated vanilla colored carpet into a crafting table. Don't worry, if you make a mistake, any patterned carpet is also craftable into the vanilla version. 
 
-<img width="2532" height="1310" alt="allcarpets_carpetexpansion" src="https://github.com/user-attachments/assets/d576b747-67ae-437f-940f-8fa3526a9f31" />
+The patterns are designed to be relatively simple but infinitely scaleable in any direction. Some are more complex than others, but all are designed in order to not take too much attention away from the overall room design.
 
-The patterns are designed to be relatively simple but infinitely scaleable in any direction. Some are more complex than others, but all are designed in order to not take too much attention away from the overall room design. 
+<img width="2532" height="1310" alt="allcarpets_carpetexpansion" src="https://github.com/user-attachments/assets/d576b747-67ae-437f-940f-8fa3526a9f31" /> 
 
 
