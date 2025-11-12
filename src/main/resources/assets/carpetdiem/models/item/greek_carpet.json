@@ -1,0 +1,6 @@
+{
+  "parent": "carpetdiem:block/greek_carpet",
+  "textures": {
+    "layer0": "carpetdiem:item/greek_carpet"
+  }
+}

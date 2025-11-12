@@ -1,0 +1,6 @@
+{
+  "parent": "carpetdiem:block/rainbow_carpet",
+  "textures": {
+    "layer0": "carpetdiem:item/rainbow_carpet"
+  }
+}

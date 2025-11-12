@@ -1,0 +1,6 @@
+{
+  "parent": "carpetdiem:block/vine_carpet",
+  "textures": {
+    "layer0": "carpetdiem:item/vine_carpet"
+  }
+}

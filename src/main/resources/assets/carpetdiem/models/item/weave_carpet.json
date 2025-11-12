@@ -1,0 +1,6 @@
+{
+  "parent": "carpetdiem:block/weave_carpet",
+  "textures": {
+    "layer0": "carpetdiem:item/weave_carpet"
+  }
+}

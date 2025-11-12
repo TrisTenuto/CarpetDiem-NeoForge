@@ -1,0 +1,6 @@
+{
+  "parent": "carpetdiem:block/gingham_carpet",
+  "textures": {
+    "layer0": "carpetdiem:item/gingham_carpet"
+  }
+}

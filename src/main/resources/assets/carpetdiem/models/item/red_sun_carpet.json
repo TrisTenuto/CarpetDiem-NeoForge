@@ -1,0 +1,6 @@
+{
+  "parent": "carpetdiem:block/red_sun_carpet",
+  "textures": {
+    "layer0": "carpetdiem:item/red_sun_carpet"
+  }
+}

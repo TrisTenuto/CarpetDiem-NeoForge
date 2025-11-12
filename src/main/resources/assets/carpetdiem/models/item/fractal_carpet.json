@@ -1,0 +1,6 @@
+{
+  "parent": "carpetdiem:block/fractal_carpet",
+  "textures": {
+    "layer0": "carpetdiem:item/fractal_carpet"
+  }
+}

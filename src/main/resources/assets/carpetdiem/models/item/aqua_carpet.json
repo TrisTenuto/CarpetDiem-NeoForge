@@ -1,0 +1,6 @@
+{
+  "parent": "carpetdiem:block/aqua_carpet",
+  "textures": {
+    "layer0": "carpetdiem:item/aqua_carpet"
+  }
+}

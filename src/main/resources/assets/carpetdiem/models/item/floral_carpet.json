@@ -1,0 +1,6 @@
+{
+  "parent": "carpetdiem:block/floral_carpet",
+  "textures": {
+    "layer0": "carpetdiem:item/floral_carpet"
+  }
+}

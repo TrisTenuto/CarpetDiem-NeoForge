@@ -1,0 +1,6 @@
+{
+  "parent": "carpetdiem:block/arcade_carpet",
+  "textures": {
+    "layer0": "carpetdiem:item/arcade_carpet"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "carpetdiem:block/crocodile_carpet",
+  "textures": {
+    "layer0": "carpetdiem:item/crocodile_carpet"
+  }
+}

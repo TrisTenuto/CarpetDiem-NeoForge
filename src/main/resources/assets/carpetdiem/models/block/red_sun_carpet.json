@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/carpet",
+  "textures": {
+    "wool": "carpetdiem:block/red_sun_carpet"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "carpetdiem:block/ripples_carpet",
+  "textures": {
+    "layer0": "carpetdiem:item/ripples_carpet"
+  }
+}
